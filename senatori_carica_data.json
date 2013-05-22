@@ -1,0 +1,1701 @@
+{
+	"head": {
+		"vars": [ "senatore", "nome", "cognome", "dataInizio", "dataFine" ]
+	}, 
+	"results": {
+		"bindings": [
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29034" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alberto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Airola" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29035" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Donatella" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Albano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/32" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria Elisabetta" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alberti Casellati" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29038" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fabiola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Anitori" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25568" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Aracri" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29039" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paolo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Arrigoni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29040" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Bruno" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Astorre" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22707" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Andrea" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Augello" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/3923" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Azzollini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/422" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Roberto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Calderoli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29057" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Massimo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Caleo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25214" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-05-07" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giacomo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Caliendo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29058" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Campanella" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29059" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Candiani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29060" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Laura" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cantini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/21593" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rosaria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Capacchione" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29061" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Enrico" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cappelletti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/476" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Franco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cardiello" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29062" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Valeria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cardinali" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29063" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio Stefano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Caridi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/500" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Franco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Carraro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29064" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Monica" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Casaletto" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/520" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pier Ferdinando" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Casini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/19020" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Massimo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cassano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22337" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Felice" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Casson" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29065" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gianluca" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Castaldi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29066" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nunzia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Catalfo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29067" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gian Marco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Centinaio" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22899" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Remigio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ceroni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29068" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Massimo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cervellini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29199" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Federica" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Chiavaroli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/16924" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vannino" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Chiti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/594" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Carlo Azeglio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ciampi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29069" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lello" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ciampolillo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29070" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Andrea" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cioffi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/18499" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Monica" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cirinna'" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29071" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Roberto Giuseppe Guido" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cociancich" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29072" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Collina" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/638" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Emilio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Colombo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/645" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Colucci" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25531" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Silvana Andreina" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Comaroli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/656" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luigi" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Compagna" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29073" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppe" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Compagnone" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25528" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nunziante" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Consiglio" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29206" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Franco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Conte" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17911" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Riccardo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Conti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/4387" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paolo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Corsini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29074" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Roberto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cotti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29075" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vito Claudio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Crimi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25359" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Jonny" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Crosio" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29076" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppe Luigi Salvatore" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cucca" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29077" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vincenzo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cuomo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29078" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Erica" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "D'Adda" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/752" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "D'Ali'" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25261" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luigi" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "D'Ambrosio Lettieri" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/27647" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vincenzo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "D'Anna" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29081" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nico" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "D'Ascola" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29089" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Angela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "D'Onghia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29079" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Dalla Tor" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29080" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gianpiero" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Dalla Zuanna" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22730" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Michelino" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Davico" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22917" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Emilia Grazia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Biasi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22918" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Peppe" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Cristofaro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29082" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Isabella" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Monte" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17578" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Loredana" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Petris" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29083" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cristina" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Pietro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29084" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Pin" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22814" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Poli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/27874" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Domenico" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Siano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29085" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mauro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Del Barba" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22922" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Benedetto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Della Vedova" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25517" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Aldo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Di Biagio" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29087" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rosa Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Di Giorgi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29203" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Salvatore Tito" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Di Maggio" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29088" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nerina" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Dirindin" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22735" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sergio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Divina" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29090" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Daniela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Donno" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29091" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giovanni" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Endrizzi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/4639" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppe" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Esposito" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25511" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Esposito" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29092" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Camilla" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fabbri" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17823" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ciro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Falanga" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17834" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Enzo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fasano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29093" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Elena" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fattori" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29094" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Emma" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fattorini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29095" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nicoletta" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Favero" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/4192" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Claudio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fazzone" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/26041" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Valeria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fedeli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/961" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ferrara" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29096" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Elena" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ferrara" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22740" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Filippi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29097" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rosanna" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Filippin" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/991" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Anna" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Finocchiaro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29098" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Elena" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fissore" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29209" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Emilio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Floris" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1027" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Roberto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Formigoni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29099" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Federico" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fornaro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29100" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vittorio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fravezzi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29101" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Serenella" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fucksia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29102" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luigi" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gaetti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29103" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paolo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Galimberti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29104" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Adele" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gambaro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1103" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maurizio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gasparri" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25495" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria Grazia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gatti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17561" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gentile" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25225" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rita" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ghedini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17887" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Niccolo'" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ghedini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29105" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giacobbe" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29211" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefania" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giannini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29106" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario Michele" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giarrusso" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25491" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vincenzo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gibiino" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29107" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nadia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ginetti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1148" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Carlo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giovanardi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22970" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29108" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gianni Pietro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Girotto" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29109" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Miguel" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gotor" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25229" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Manuela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Granaiola" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29110" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pietro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Grasso" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29208" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marcello" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gualdani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/28580" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria Cecilia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Guerra" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29111" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paolo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Guerrieri Paleotti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/11320" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pietro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ichino" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29112" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Josefa" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Idem" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22558" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pietro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Iurlaro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29113" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Bachisio Silvio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lai" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29114" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pietro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Langella" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29115" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Albert" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Laniece" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/6472" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Linda" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lanzillotta" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/5126" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nicola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Latorre" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29116" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lepri" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29117" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Barbara" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lezzi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29118" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pietro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Liuzzi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29119" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sergio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lo Giudice" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25477" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Doris" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lo Moro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29120" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Eva" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Longo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29121" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fausto Guilherme" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Longo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29122" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Carlo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lucherini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29123" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lucidi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1376" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppe" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lumia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1407" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lucio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Malan" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29124" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Patrizia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Manassero" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1426" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luigi" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Manconi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29125" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Bruno" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mancuso" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29126" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Andrea" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mandelli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29127" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giovanna" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mangili" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25208" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mantovani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17695" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alessandro" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maran" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1458" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Andrea" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marcucci" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/23135" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Salvatore" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Margiotta" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29128" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marin" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17698" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppe Francesco Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marinello" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22759" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ignazio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marino" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/21507" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mauro Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marino" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29129" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luigi" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marino" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29130" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Carlo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Martelli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29131" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Claudio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Martini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29132" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Bruno" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marton" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29133" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marino Germano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mastrangeli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1526" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Altero" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Matteoli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25466" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Donella" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mattesini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29134" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppina" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maturani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17704" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giovanni" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mauro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29135" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mauro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25464" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Riccardo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mazzoni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/23008" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria Paola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Merloni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25205" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alfredo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Messina" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22790" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Claudio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Micheloni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/4493" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maurizio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Migliavacca" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25458" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Milo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29137" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Corradino" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mineo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/12379" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Minniti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29205" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Augusto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Minzolini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29138" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Franco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mirabelli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29139" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Molinari" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29140" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Michela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Montevecchi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/28543" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Monti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29141" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Morgoni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29142" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vilma" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Moronese" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29143" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nicola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Morra" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29144" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Claudio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Moscardelli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29145" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Massimo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mucchetti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25449" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Emanuela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Munerato" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29146" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mussini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1662" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alessandra" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mussolini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/8988" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-05-07" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paolo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Naccarato" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1686" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Riccardo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nencini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29147" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nugnes" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29148" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Andrea" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Olivero" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29149" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luis Alberto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Orellana" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29150" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pamela Giacoma Giovanna" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Orru'" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29151" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Venera" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Padua" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29152" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pippo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pagano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29153" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giorgio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pagliari" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29154" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sara" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paglini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29155" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Palermo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17739" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Nitto Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Palma" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29156" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Franco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Panizza" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29157" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Annamaria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Parente" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22767" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Carlo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pegorer" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/23035" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pelino" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29158" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Bartolomeo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pepe" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29159" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luigi" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Perrone" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29160" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alessia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Petraglia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29161" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vito Rosario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Petrocelli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29162" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefania" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pezzopane" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29163" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giovanni" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Piccoli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22770" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Leana" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pignedoli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17750" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Roberta" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pinotti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25424" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luciano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pizzetti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29164" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sergio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Puglia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29165" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesca" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Puglisi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29166" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Laura" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Puppato" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/18715" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gaetano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Quagliariello" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25235" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Raffaele" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ranucci" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/23054" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Razzi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25416" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Manuela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Repetti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29167" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lucrezia" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ricchiuti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25198" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rizzotti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/2064" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paolo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Romani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29168" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maurizio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Romani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29169" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lucio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Romano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/23060" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luciano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rossi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25412" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mariarosaria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rossi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29170" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gianluca" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rossi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29171" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maurizio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rossi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29172" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Russo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17769" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Roberto" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ruta" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17635" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppe" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ruvolo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/2132" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maurizio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sacconi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29173" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Angelica" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Saggese" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25224" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gian Carlo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sangalli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29174" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maurizio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Santangelo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29175" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giorgio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Santini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29176" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Scalia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/2214" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio Fabio Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Scavone" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/3939" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Renato" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Schifani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25206" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Salvatore" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sciascia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29177" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Marco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Scibona" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25398" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Domenico" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Scilipoti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29178" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Scoma" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25207" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giancarlo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Serafini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29179" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Manuela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Serra" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25245" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Cosimo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sibilia" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29180" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Annalisa" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Silvestro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29181" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ivana" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Simeoni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29182" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pasquale" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sollo" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29183" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lodovico" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sonego" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29184" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Spilabotte" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/2313" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Ugo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sposetti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29185" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Erika" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefani" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29186" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Dario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/4569" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giacomo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stucchi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29187" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gianluca" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Susta" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29188" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lucio Rosario Filippo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Tarquinio" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29189" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Paola" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Taverna" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17796" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Walter" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Tocci" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/23080" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Salvatore" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Tomaselli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17651" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giorgio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Tonini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25386" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Salvatore" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Torrisi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/2419" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giulio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Tremonti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/2430" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mario" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Tronti" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22794" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Renato Guerino" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Turano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29191" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luciano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Uras" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29192" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stefano" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vaccari" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29193" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giuseppe" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vacciano" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29200" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Daniela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Valentini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29194" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vito" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vattuone" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17801" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Denis" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Verdini" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/28924" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Francesco" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Verducci" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17803" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio Giuseppe Maria" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Verro" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25270" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Simona" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vicari" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17805" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Guido" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Viceconte" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/10369" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Riccardo" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Villari" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/20001" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Raffaele" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Volpi" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/20658" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luigi" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zanda" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17811" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pierantonio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zanettin" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29195" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Magda Angela" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zanoni" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17663" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sergio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zavoli" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/2553" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Karl" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zeller" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29196" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Claudio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zin" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29197" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vittorio" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zizza" }
+			}, 
+			{
+				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29210" }, 
+				"dataInizio": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-15" }, 
+				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Sante" }, 
+				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Zuffada" }
+			}
+		]
+	}
+}
