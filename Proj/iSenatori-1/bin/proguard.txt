@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:52
+-keep class com.our_gov.iGovernanti_v1 { <init>(...); }
+

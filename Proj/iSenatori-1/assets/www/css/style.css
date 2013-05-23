@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+@font-face
+{
+   font-family: appNameFont;
+   src: url('../res/font/EasyRider.ttf');
+}
+
+
+/* STANDARD FOR MOBILE */
+
+* {
+   -webkit-tap-highlight-color: rgwba(0,0,0,0);
+
+   -webkit-margin-start: 0;
+   -webkit-margin-end:0;
+   -webkit-margin-after:0;
+   -webkit-margin-before:0;
+
+   /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+
+   padding:0px;
+   margin:0px;
+}
+
+body {
+   -webkit-touch-callout: none;
+   /* prevent callout to copy image, etc when tap to hold */
+   -webkit-text-size-adjust: none;
+   /* prevent webkit from resizing text to fit */
+   -webkit-user-select: none;
+   /* prevent copy paste, to allow, change 'none' to 'text' */
+   background-attachment: fixed;
+   font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+   font-size: 12px;
+
+   height: 100%;
+   width: 100%;
+
+   padding:0px;
+   margin:0px;
+}
+.left
+{
+   float:left;
+}
+.right
+{
+   float:right;
+}
+
+/* END STANDARD MOBILE */
+
+/* General Rules*/
+body
+{
+   background-color: #34528a;
+}
+
+/* top-bar rules*/
+.top_bar>.appName
+{
+   color: #bc0807;
+   text-align: center;
+   font-size: 2.6em;
+   line-height: 50px;
+
+   width: 100%;
+   z-index: -1;
+   font-family: appNameFont;
+}
+.top_bar
+{
+   border-bottom: solid 2px #7048a0;
+   z-index: 0;
+   background-color:#e2d0f8; 
+   position: fixed;
+   top:0px;
+   left:0px;
+   width:100%;
+}
+.settings, .search-lens, .back
+{
+   width: 30px;
+   height: 30px;
+   background-color: green;
+   margin: 10px;
+   position: absolute;
+   top:0px;
+}
+.settings
+{
+   left:0px;
+   background: url('../res/img/logos/settings_30x30.png') no-repeat center center;
+}
+.search-lens
+{
+   right: 0px;
+   background: url('../res/img/logos/search_30x30.png') no-repeat center center;
+}
+.back
+{
+   left:0px;
+   background: url('../res/img/logos/questionMark_30x30.png') no-repeat center center;
+}
+
+/* content rules*/
+.container
+{
+   margin-top: 60px;
+}
+.prod_list_item
+{
+   border: none;
+}
+.prod_list_item li
+{
+   width: 90%;
+   border-bottom: solid 1px violet;
+   display :block;
+   margin-left: auto;
+   margin-right:auto;
+   text-align: center;
+}
+.mybutton
+{
+   width:50%;
+   background: green;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 10px;
+}
+.mybutton>p
+{
+   width: 100%;
+   text-align: center;
+   height: 50px;
+   line-height: 50px;
+}
+
+
+
+/* TEMPORARY */
+.tmp_contaier
+{
+   text-align:center;
+   color:green;
+}
