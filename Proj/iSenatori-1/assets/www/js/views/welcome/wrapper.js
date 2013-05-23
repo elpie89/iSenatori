@@ -16,6 +16,8 @@ define(["zepto", "underscore", "backbone", "handlebars","text!tpl/welcome_tpl.ht
                    bottom_bar:false
                  },
                  this.render();
+         
+         setTimeout(function(){Backbone.history.navigate("persone", {trigger: true});},2000);
               },
               render: function() {
                  $(this.el).html(this.template({}));
