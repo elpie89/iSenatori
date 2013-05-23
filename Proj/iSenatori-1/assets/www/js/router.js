@@ -18,8 +18,10 @@ define(
                  this.flipPage( WelcomeWrap );
               },
               flipPage: function( View ) {
+                 
                  this.prevView=this.currentView;
                  this.currentView.remove();
+                 
                  this.currentView = new View( { uiProperties: uiProperties} );
               }
 
