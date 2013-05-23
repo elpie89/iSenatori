@@ -1,0 +1,806 @@
+ [
+    { "senatore":"http://dati.senato.it/senatore/25201"
+	, "afferenza":"Capogruppo PD Consiglio comunale di Milano"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025201.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22807"
+	, "afferenza":"Consigliere Comune di Firenze"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00022807.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25256"
+	, "afferenza":"Consigliere comunale a Salerno"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025256.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25298"
+	, "afferenza":"Presidente Consiglio regionale della Basilicata"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025298.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25273"
+	, "afferenza":"Deputato Assemblea regionale siciliana"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025273.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17941"
+	, "afferenza":"Presidente del Centro Studi Economia reale"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017941.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/237"
+	, "afferenza":"Sindaco di Montefiore Conca (Rimini)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00000237.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25196"
+	, "afferenza":"Consigliere comunale Borgomanero (NO)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025196.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17558"
+	, "afferenza":"Consigliere comunale di Sanremo"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017558.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25197"
+	, "afferenza":"Assessore al turismo e allo sport della Provincia di Torino"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025197.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25219"
+	, "afferenza":"Consigliere comunale a Piombino Dese (Padova)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025219.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25202"
+	, "afferenza":"Assessore Provincia di Milano"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025202.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25263"
+	, "afferenza":"Consigliere regionale Basilicata"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025263.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/651"
+	, "afferenza":"Assessore Comune di Milano"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00000651.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/703"
+	, "afferenza":"Presidente Ordine dottori commercialisti Lecce"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00000703.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25195"
+	, "afferenza":"Consigliere provinciale Bolzano. Consigliere regionale Trentino Alto Adige"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025195.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25239"
+	, "afferenza":"Consigliere regionale del Lazio"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025239.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25294"
+	, "afferenza":"Vice sindaco comune di Edolo (Brescia)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025294.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25243"
+	, "afferenza":"Assessore alla sanit\u00E0 regione Molise"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025243.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25241"
+	, "afferenza":"Consigliere regionale Abruzzo"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025241.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25264"
+	, "afferenza":"Consigliere regionale Basilicata"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025264.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22945"
+	, "afferenza":"Consigliere comunale Vicenza"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00022945.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/3941"
+	, "afferenza":"Sindaco del Comune di Bronte (Catania)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00003941.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22742"
+	, "afferenza":"Consigliere comunale Chivasso (Torino)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00022742.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17632"
+	, "afferenza":"Consigliere comunale Chiampo (Vicenza)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017632.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25203"
+	, "afferenza":"Consigliere regionale Lombardia"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025203.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/1181"
+	, "afferenza":"Amministratore di societ\u00E0 pubblica"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00001181.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25223"
+	, "afferenza":"Consigliere regionale Liguria"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025223.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17588"
+	, "afferenza":"Consigliere provinciale Benevento"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017588.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25265"
+	, "afferenza":"Consigliere regionale Basilicata"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025265.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/21516"
+	, "afferenza":"Consigliere comunale Chieti"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00021516.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25300"
+	, "afferenza":"Vice sindaco comune Lampedusa-Linosa"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025300.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25240"
+	, "afferenza":"Consigliere regionale Abruzzo"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025240.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25212"
+	, "afferenza":"Consigliere regionale Lombardia"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025212.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25211"
+	, "afferenza":"Sindaco di Chiari (Brescia)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025211.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/28845"
+	, "afferenza":"Consigliere Provincia di Milano"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00028845.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22762"
+	, "afferenza":"Sindaco di Riva del Garda (Trento)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00022762.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17611"
+	, "afferenza":"Assessore al comune di Lazzate (Milano)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017611.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25221"
+	, "afferenza":"Consigliere comunale Genova"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025221.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/1692"
+	, "afferenza":"Sindaco di Afragola (NA)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00001692.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25222"
+	, "afferenza":"Vicepresidente Consiglio regionale Liguria"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025222.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/3917"
+	, "afferenza":"Consigliere comunale Pescara"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00003917.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/23037"
+	, "afferenza":"Sindaco di Basiliano (Udine)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00023037.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22769"
+	, "afferenza":"Sindaco del comune di Celano (L'Aquila)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00022769.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/16658"
+	, "afferenza":"Consigliere provinciale Vercelli"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00016658.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25199"
+	, "afferenza":"Consigliere regionale Piemonte"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025199.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25233"
+	, "afferenza":"Assessore comune Porto Recanati (Macerata)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025233.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/1919"
+	, "afferenza":"Presidente agenzia per i beni culturali euromediterraneo, vice-presidente nazionale ANCI"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00001919.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25210"
+	, "afferenza":"Sindaco di Besozzo (Varese)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025210.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17767"
+	, "afferenza":"Assessore Comune di Valmadrera (Lecco)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017767.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/2130"
+	, "afferenza":"Consigliere comunale Roma"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00002130.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17771"
+	, "afferenza":"Consigliere comunale Padova"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017771.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/16639"
+	, "afferenza":"Consigliere regionale della Sardegna"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00016639.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25232"
+	, "afferenza":"Vice Presidente Consiglio Regionale Umbria"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025232.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25269"
+	, "afferenza":"Sindaco del Comune di Catania"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025269.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25242"
+	, "afferenza":"Consigliere regionale Abruzzo"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025242.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22784"
+	, "afferenza":"Consigliere comunale Scandicci (Firenze)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00022784.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25218"
+	, "afferenza":"Sindaco di Chiarano (Treviso)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025218.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25209"
+	, "afferenza":"Consigliere provinciale Como; consigliere comunale Lezzeno (Como)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00025209.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/16923"
+	, "afferenza":"Direttore Scientifico Istituto Europeo di Oncologia, Milano"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00016923.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/28899"
+	, "afferenza":"Presidente UPEL Varese (Unione Provinciale Enti Locali)"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00028899.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17810"
+	, "afferenza":"Consigliere provinciale Verbano-Cusio-Ossola"
+	, "foto":"http://www.senato.it/leg/16/Immagini/Senatori/00017810.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/128"
+	, "afferenza":"Presidente del Comitato nazionale per il Microcredito"
+	, "foto":"http://www.senato.it/leg/15/Immagini/Senatori/00000128.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/21629"
+	, "afferenza":"Presidente del Consiglio d'Amministrazione Fondazione ICO \"Tito Schipa\""
+	, "foto":"http://www.senato.it/leg/15/Immagini/Senatori/00021629.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29033"
+	, "afferenza":"Assessore alla Regione Calabria"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029033.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29040"
+	, "afferenza":"Consigliere Regione Lazio"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029040.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29039"
+	, "afferenza":"Sindaco del comune di Calolziocorte (LC), Consigliere della provincia di Lecco"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029039.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29060"
+	, "afferenza":"Gi\u00E0 Sindaco del Comune di Castelfiorentino, Vicepresidente della Provincia di Firenze"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029060.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29059"
+	, "afferenza":"Consigliere comunale"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029059.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22899"
+	, "afferenza":"Coordinatore regionale PdL Marche"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00022899.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29199"
+	, "afferenza":"Consigliere del Comune di Pescara"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029199.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29067"
+	, "afferenza":"Vicesindaco del Comune di Pavia"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029067.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/18499"
+	, "afferenza":"Consigliere del Comune di Roma"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00018499.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29062"
+	, "afferenza":"Assessore urbanistica Comune di Perugia"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029062.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/500"
+	, "afferenza":"Membro Comitato Internazionale Olimpico"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00000500.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29065"
+	, "afferenza":"Settore tecnico (Associazione italiana arbitri)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029065.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/19020"
+	, "afferenza":"Consigliere di circoscrizione, Vicepresidente del consiglio provinciale di Bari, Consigliere della regione Puglia (per due legislature), Vicecapogruppo PDL"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00019020.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29071"
+	, "afferenza":"Presidente mondiale Conferenza Internazionale Cattolica dello Scoutismo"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029071.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25528"
+	, "afferenza":"Presidente della societ\u00E0 \"TEB\" Tramvie Elettriche Bergamasche"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025528.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29073"
+	, "afferenza":"Sindaco di Grammichele (CT)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029073.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29077"
+	, "afferenza":"Gi\u00E0 Sindaco di Portici, componente Assemblea Nazionale PD, Presidente uscente Anci Campania"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029077.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29076"
+	, "afferenza":"Consigliere regionale della Regione Sardegna"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029076.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/752"
+	, "afferenza":"Presidente Consorzio Universitario della Provincia di Trapani"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00000752.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29079"
+	, "afferenza":"Vicepresidente della Provincia di Venezia, Coordinatore del PdL Venezia"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029079.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/27647"
+	, "afferenza":"Presidente nazionale FEDERLAB"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00027647.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25261"
+	, "afferenza":"Presidente Ordine dei Farmacisti di Bari/Bat"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025261.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29082"
+	, "afferenza":"Sindaco del Comune di Pontebba (UD)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029082.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29203"
+	, "afferenza":"Presidente del Distretto industriale del mobile imbottito di Matera"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029203.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/4639"
+	, "afferenza":"Vicepresidente COPASIR nella XVI legislatura"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00004639.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29094"
+	, "afferenza":"Membro del Comitato nazionale di bioetica e del Comitato scientifico Treccani"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029094.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29096"
+	, "afferenza":"Consigliere del comune di Oleggio (NO)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029096.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29095"
+	, "afferenza":"Consigliere Comune di Biella - Gi\u00E0 Assessore educazione, politiche sociali, abitative e pari opportunit\u00E0 Comune di Biella - Cavaliere della Repubblica"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029095.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29097"
+	, "afferenza":"Segretario regionale PD Veneto"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029097.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29098"
+	, "afferenza":"Gi\u00E0 assessore del Comune di Moncalieri"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029098.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29100"
+	, "afferenza":"Sindaco del comune di Dro (TN), componente del Consiglio delle autonomie della Provincia autonoma di Trento"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029100.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29101"
+	, "afferenza":"Socio SiMLii (Societ\u00E0 italiana di medicina del lavoro e igiene industriale)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029101.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/1027"
+	, "afferenza":"Commissario generale Exp\u00F2 2015 Milano"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00001027.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29099"
+	, "afferenza":"Sindaco Comune di Castelletto d'Orba (AL) - Consigliere Provincia di Alessandria"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029099.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25495"
+	, "afferenza":"Gi\u00E0 sindacalista"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025495.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22963"
+	, "afferenza":"Sindaco di Marcallo con Casone (Milano) dal 1999 al 2009"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00022963.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29107"
+	, "afferenza":"Sindaco del Comune di Corciano"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029107.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29211"
+	, "afferenza":"Rettore dell'Universit\u00E0 di Perugia per stranieri"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029211.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25491"
+	, "afferenza":"Presidente Revisori conti Federcasa"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025491.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29110"
+	, "afferenza":"Gi\u00E0 Procuratore nazionale antimafia"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029110.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25229"
+	, "afferenza":"Presidente Auser Viareggio"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025229.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29208"
+	, "afferenza":"Commissario straordinario IACP di Palermo, Vicepresidente nazionale della Federcasa"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029208.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/28580"
+	, "afferenza":"Sottosegretario di Stato - Ministero del lavoro e delle politiche sociali (Governo Monti-I), nella XVI leg."
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00028580.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22558"
+	, "afferenza":"Consigliere del Comune di Francavilla Fontana, Consigliere della regione Puglia"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00022558.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/6472"
+	, "afferenza":"Presidente GLOCUS, Think Tank indipendente"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00006472.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29115"
+	, "afferenza":"Assessore alla Sanit\u00E0, salute e politiche sociali della Regione Valle d'Aosta"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029115.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29113"
+	, "afferenza":"Segretario regionale PD"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029113.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29114"
+	, "afferenza":"Assessore Provincia di Napoli"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029114.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29121"
+	, "afferenza":"Cavaliere della Repubblica"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029121.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29125"
+	, "afferenza":"Sindaco del Comune di Sant'Agata di Militello (ME), Vicepresidente del Parco dei Nebrodi, Coordinatore del Distretto dei Nebrodi, Presidente dell'Unione dei Nebrodi"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029125.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29124"
+	, "afferenza":"Consigliere Provincia di Cuneo"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029124.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29126"
+	, "afferenza":"Presidente della Federazione degli Ordini dei farmacisti italiani"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029126.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29128"
+	, "afferenza":"Consigliere del Comune di Padova"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029128.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29134"
+	, "afferenza":"Gi\u00E0 presidente del Consiglio provinciale di Roma"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029134.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17704"
+	, "afferenza":"Consigliere giuridico Dipartimento economico Presidenza del Consiglio dei ministri sino al 15/03/2013"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00017704.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25466"
+	, "afferenza":"Membro dell'Assemblea nazionale PD e della Direzione provinciale e regionale PD"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025466.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25464"
+	, "afferenza":"Coordinatore provinciale PdL di Prato"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025464.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29131"
+	, "afferenza":"Presidente Fondazione Orchestra regionale Toscana"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029131.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29135"
+	, "afferenza":"Parlamentare europeo"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029135.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/22790"
+	, "afferenza":"Presidente della FCLIS - Federazione delle Colonie Libere Italiane in Svizzera"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00022790.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25449"
+	, "afferenza":"Consigliere del Comune di Lendinara (RO)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025449.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29141"
+	, "afferenza":"Presidente azienda pubblica locale"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029141.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29156"
+	, "afferenza":"Segretario politico P.A.T.T., Assessore alla cultura della Provincia autonoma di Trento"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029156.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29153"
+	, "afferenza":"Consigliere Fabbriceria Duomo di Parma"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029153.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29157"
+	, "afferenza":"Componente segreteria nazionale del Partito Democratico - responsabile della formazione politica"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029157.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29159"
+	, "afferenza":"Presidente regionale ANCI Puglia"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029159.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29158"
+	, "afferenza":"Consulente tecnico I.S.D.E. (medici per l'ambiente)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029158.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29152"
+	, "afferenza":"Vicepresidente nazionale AICCRE"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029152.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29163"
+	, "afferenza":"Sindaco del Comune di Sedico (BL)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029163.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29166"
+	, "afferenza":"Sindaco - consigliere regionale - Cavaliere al merito della Repubblica"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029166.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29165"
+	, "afferenza":"Responsabile scuola Segreteria nazionale PD"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029165.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/18715"
+	, "afferenza":"Presidente Fondazione Magna Carta"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00018715.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29167"
+	, "afferenza":"Vicesindaco del Comune di Desio"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029167.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25416"
+	, "afferenza":"Coordinatore provinciale PdL"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025416.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/23060"
+	, "afferenza":"Presidente FITAV - Roma"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00023060.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25398"
+	, "afferenza":"Segretario politico del Movimento di responsabilit\u00E0 nazionale (MRN)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025398.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29178"
+	, "afferenza":"Deputato all' ARS (XII -XVI leg.), Assesore regionale al lavoro (2004-2006) e alle attivit\u00E0 sociali (2008-2009), Vicesindaco di Palermo (2009-2010)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029178.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29173"
+	, "afferenza":"Consigliere comunale"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029173.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29176"
+	, "afferenza":"Ex Sindaco - Ex Presidente Provincia - Ex Assessore Regione Lazio - Ex Consigliere Regione Lazio"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029176.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29184"
+	, "afferenza":"Consigliere comunale"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029184.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25245"
+	, "afferenza":"Ex Presidente della Provincia di Avellino, Presidente CONI Campania"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025245.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29186"
+	, "afferenza":"Assessore Regione Puglia - Coordinatore Commissione poliche agricole in Conferenza delle Regioni"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029186.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29185"
+	, "afferenza":"Vicesindaco e Assessore all'Urbanistica ed edilizia privata del Comune di Trissino (VI)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029185.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29183"
+	, "afferenza":"Gi\u00E0 consigliere e assessore Regione Friuli-Venezia Giulia"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029183.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29187"
+	, "afferenza":"Deputato al Parlamento europeo"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029187.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17796"
+	, "afferenza":"Direttore del Centro per la Riforma dello Stato (CRS)"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00017796.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29188"
+	, "afferenza":"Consigliere regionale"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029188.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29191"
+	, "afferenza":"Consigliere della Regione Sardegna"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029191.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/17803"
+	, "afferenza":"Consigliere di amministrazione RAI"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00017803.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29200"
+	, "afferenza":"Consigliere regionale"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029200.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29192"
+	, "afferenza":"Presidente Fondazione Villa Emma (Nonantola, MO) - Presidente Agenzia per l'energia di Modena"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029192.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29194"
+	, "afferenza":"Amministratore locale"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029194.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/25270"
+	, "afferenza":"Gi\u00E0 sindaco di Cefal\u00F9 e gi\u00E0 deputato Assemblea regionale siciliana"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00025270.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29195"
+	, "afferenza":"Ex Assessore Bilancio Finanze del Comune di Pinerolo"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029195.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/2553"
+	, "afferenza":"Membro delle Commissioni paritetiche dei Sei e dei Dodici"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00002553.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29197"
+	, "afferenza":"Sindaco del Comune di Carovigno"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029197.jpg"
+}
+,
+    { "senatore":"http://dati.senato.it/senatore/29196"
+	, "afferenza":"Coordinatore generale Sanit\u00E0 - Universit\u00E0 di Buenos Aires"
+	, "foto":"http://www.senato.it/leg/17/Immagini/Senatori/00029196.jpg"
+}
+ ]

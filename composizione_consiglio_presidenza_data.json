@@ -1,114 +1,107 @@
-{
-	"head": {
-		"vars": [ "senatore", "nome", "cognome", "carica", "inizioAfferenza", "fineAfferenza" ]
-	}, 
-	"results": {
-		"bindings": [
+[
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/32" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maria Elisabetta" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alberti Casellati" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/32", 
+				"nome":"Maria Elisabetta", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Alberti Casellati"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vice Presidente del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/422" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Roberto" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Calderoli" }
+				"carica":"Vice Presidente del Senato", 
+				"senatore":"http://dati.senato.it/senatore/422", 
+				"nome":"Roberto", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Calderoli"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Questore del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/22814" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "De Poli" }
+				"carica":"Questore del Senato", 
+				"senatore":"http://dati.senato.it/senatore/22814", 
+				"nome":"Antonio", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"De Poli"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29087" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Rosa Maria" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Di Giorgi" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/29087", 
+				"nome":"Rosa Maria", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Di Giorgi"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vice Presidente del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/26041" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Valeria" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Fedeli" }
+				"carica":"Vice Presidente del Senato", 
+				"senatore":"http://dati.senato.it/senatore/26041", 
+				"nome":"Valeria", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Fedeli"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vice Presidente del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1103" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Maurizio" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gasparri" }
+				"carica":"Vice Presidente del Senato", 
+				"senatore":"http://dati.senato.it/senatore/1103", 
+				"nome":"Maurizio", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Gasparri"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/17561" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Antonio" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Gentile" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/17561", 
+				"nome":"Antonio", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Gentile"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Presidente del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29110" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pietro" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-16" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Grasso" }
+				"carica":"Presidente del Senato", 
+				"senatore":"http://dati.senato.it/senatore/29110", 
+				"nome":"Pietro", 
+				"inizioAfferenza":"2013-03-16", 
+				"cognome":"Grasso"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Vice Presidente del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/6472" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Linda" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lanzillotta" }
+				"carica":"Vice Presidente del Senato", 
+				"senatore":"http://dati.senato.it/senatore/6472", 
+				"nome":"Linda", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Lanzillotta"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Questore del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1407" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Lucio" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Malan" }
+				"carica":"Questore del Senato", 
+				"senatore":"http://dati.senato.it/senatore/1407", 
+				"nome":"Lucio", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Malan"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/1662" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alessandra" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Mussolini" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/1662", 
+				"nome":"Alessandra", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Mussolini"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29160" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Alessia" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-05-08" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Petraglia" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/29160", 
+				"nome":"Alessia", 
+				"inizioAfferenza":"2013-05-08", 
+				"cognome":"Petraglia"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/25424" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Luciano" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Pizzetti" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/25424", 
+				"nome":"Luciano", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Pizzetti"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/29173" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Angelica" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Saggese" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/29173", 
+				"nome":"Angelica", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Saggese"
 			}, 
 			{
-				"carica": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Segretario della Presidenza del Senato" }, 
-				"senatore": { "type": "uri", "value": "http:\/\/dati.senato.it\/senatore\/4569" }, 
-				"nome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Giacomo" }, 
-				"inizioAfferenza": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#date", "value": "2013-03-21" }, 
-				"cognome": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#string", "value": "Stucchi" }
+				"carica":"Segretario della Presidenza del Senato", 
+				"senatore":"http://dati.senato.it/senatore/4569", 
+				"nome":"Giacomo", 
+				"inizioAfferenza":"2013-03-21", 
+				"cognome":"Stucchi"
 			}
 		]
-	}
-}
