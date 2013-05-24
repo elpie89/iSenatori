@@ -1,30 +1,39 @@
-define(["zepto", "underscore", "backbone", "handlebars","text!tpl/welcome_tpl.html"],
-        function($, _, Backbone, Handlebars, template) {
+define( ["zepto", "underscore", "backbone", "handlebars", "text!tpl/welcome_tpl.html", "my_parse"],
+        function( $, _, Backbone, Handlebars, template, myParse ) {
 
-           var Welcome = Backbone.View.extend({
-              
-              className: "content",
+           function ok( data, status, xhr )
+           {
+              console.log( "query andata a buon fine" );
+              var tmp = JSON.parse( data ).results;
+              if ( tmp.length < 10 )
+                 DB["votazioni"] = tmp;
+              else
+                 DB["senatori"] = tmp;
+           }
+           function nok( xhr, errorType, error )
+           {
+              console.log( "query non andata a buon fine" );
+           }
+
+
+           var Welcome = Backbone.View.extend( {
               tagName: "section",
-              id:"content",
-              
-              template: Handlebars.compile(template),
-              
+              className: "container",
+               template: Handlebars.compile( template ),
               initialize: function() {
-                 this.uiProperties={
-                   top_bar : false,
-                   nav_bar : false,
-                   bottom_bar:false
-                 },
+                 
+                  myParse.parse_get_class( "Senatore", ok, nok );
+                  myParse.parse_get_class( "Votazione", ok, nok );
+                 
                  this.render();
-         
-         setTimeout(function(){Backbone.history.navigate("persone", {trigger: true});},2000);
               },
               render: function() {
-                 $(this.el).html(this.template({}));
+                 
+                 $( this.el ).html();
                  return this;
               }
-           });
+           } );
 
            return Welcome;
 
-        });
+        } );

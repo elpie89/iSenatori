@@ -1,3 +1,5 @@
+var DB={senatori: null,votazioni:null};
+
 require.config( {
    // baseUrl:"/www_test4/",
    paths: {
@@ -8,6 +10,7 @@ require.config( {
       text: '../lib/require/text-1.0.6',
       async: '../lib/require/async',
       handlebars: '../lib/handlebars/handlebars',
+      my_parse: '../lib/customLib/my_parse',
       
       /*models-collections-template base paths*/
       tpl: '../templates',
@@ -16,7 +19,12 @@ require.config( {
       
       /*views bare paths*/
       welcome: '../js/views/welcome',
-      top_bar: '../js/views/top_bar'
+      persone: '../js/views/persone',
+      footer: '../js/views/footer',
+      topbar:'../js/views/topbar',
+      votazioni:'../js/views/votazioni',
+      personeDetail:'../js/views/personeDetail',
+      votazioniDetail: '../js/views/votazioniDetail'
 
    },
    shim: {
@@ -47,6 +55,6 @@ require( ['zepto', 'domReady', 'underscore', 'backbone', 'router'],
            function run() {
 
               new AppRouter();
-              //Backbone.history.start();
+              Backbone.history.start();
            }
         } );

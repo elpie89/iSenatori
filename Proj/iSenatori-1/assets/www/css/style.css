@@ -1,149 +1,483 @@
-@charset "UTF-8";
 
+/* generali */
 @font-face
 {
-   font-family: appNameFont;
-   src: url('../res/font/EasyRider.ttf');
+   font-family: teo;
+   src: url('../res/font/Title.otf');
 }
-
-
-/* STANDARD FOR MOBILE */
-
-* {
-   -webkit-tap-highlight-color: rgwba(0,0,0,0);
-
-   -webkit-margin-start: 0;
-   -webkit-margin-end:0;
-   -webkit-margin-after:0;
-   -webkit-margin-before:0;
-
-   /* make transparent link selection, adjust last value opacity 0 to 1.0 */
-
-   padding:0px;
-   margin:0px;
-}
-
-body {
-   -webkit-touch-callout: none;
-   /* prevent callout to copy image, etc when tap to hold */
-   -webkit-text-size-adjust: none;
-   /* prevent webkit from resizing text to fit */
-   -webkit-user-select: none;
-   /* prevent copy paste, to allow, change 'none' to 'text' */
-   background-attachment: fixed;
-   font-family: 'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
-   font-size: 12px;
-
-   height: 100%;
-   width: 100%;
-
-   padding:0px;
-   margin:0px;
-}
-.left
+@font-face
 {
-   float:left;
+   font-family: bot-bar;
+   src: url('../res/font/HelveticaLight.ttf');
 }
-.right
+*
 {
-   float:right;
+   margin:0px;
+   padding:0px;
 }
-
-/* END STANDARD MOBILE */
-
-/* General Rules*/
+a
+{
+   text-transform: none;
+   text-decoration: none;
+}
+li
+{
+   list-style: none;
+}
+h1
+{
+   font-size:100px;
+   line-height: 100px;
+}
 body
 {
-   background-color: #34528a;
-}
-
-/* top-bar rules*/
-.top_bar>.appName
-{
-   color: #bc0807;
-   text-align: center;
-   font-size: 2.6em;
-   line-height: 50px;
-
+   font-family: teo;  
    width: 100%;
-   z-index: -1;
-   font-family: appNameFont;
 }
-.top_bar
+footer, section.content
 {
-   border-bottom: solid 2px #7048a0;
-   z-index: 0;
-   background-color:#e2d0f8; 
+   width: 100%; 
+   display: block;
+}
+header
+{
+   text-align: center;
+   padding:3px;
    position: fixed;
    top:0px;
    left:0px;
-   width:100%;
+   width: 100%;
+   height: 100px;
+   z-index: 99;
 }
-.settings, .search-lens, .back
+.content
 {
-   width: 30px;
-   height: 30px;
-   background-color: green;
-   margin: 10px;
-   position: absolute;
-   top:0px;
+   padding-top: 110px;
+   margin-top: 8px; 
+   padding-bottom: 65px;
 }
-.settings
+footer
 {
+   position:fixed;
+   bottom:0px;
    left:0px;
-   background: url('../res/img/logos/settings_30x30.png') no-repeat center center;
 }
-.search-lens
+header h1
 {
-   right: 0px;
-   background: url('../res/img/logos/search_30x30.png') no-repeat center center;
+   color:white;
+   position: relative;
+   top:3px;
 }
-.back
+header, .bottom_butt
 {
-   left:0px;
-   background: url('../res/img/logos/questionMark_30x30.png') no-repeat center center;
+   background-color: #9b1818;
 }
-
-/* content rules*/
-.container
+footer
 {
-   margin-top: 60px;
+   color:white;
 }
-.prod_list_item
+.bottom_butt
 {
-   border: none;
-}
-.prod_list_item li
-{
-   width: 90%;
-   border-bottom: solid 1px violet;
-   display :block;
-   margin-left: auto;
-   margin-right:auto;
+   display: block;
+   width: 50%;
+   float: left;
    text-align: center;
 }
-.mybutton
+.searchBar
 {
-   width:50%;
-   background: green;
+   background-color: #9b3e3e;
+
+   position: relative;
+   top: 4px;
+   z-index: -99;
+}
+footer form>*:not(:last-child)
+{
+   float:left;
+}
+footer form>*:last-child
+{
+   float:none;
+}
+.bottom_butt>*
+{
+   float: left;
+   color: white;
+   font-family: bot-bar;
+}
+.bottom_butt img
+{
+   padding: 3px;
+   padding-left:8px;   
+   margin-top:3px;
+   margin-bottom: 3px;
+
+}
+.bottom_butt span
+{
+   line-height:72px;
+   padding-left:0.8em;
+   text-transform: capitalize;
+   position: relative;
+   top: 2px;
+   font-size: 40px;
+}
+
+footer a:last-child img
+{
+   border-left:solid 1px #b88d8d;
+}
+div.searchBar form
+{
+   margin-left: 4%;
+   margin-right: 6%;
+   padding-top: 5px;
+   color:white;
+}
+div.searchBar input[type="image"]
+{
+   display: inline;
+   position: relative;
+   right: -5px;
+
+}
+div.searchBar input[type="text"]
+{
+   display: inline;
+   width: 87%;
+   border: none;
+   border-bottom: 1px solid #eed9d8;
+   background-color: transparent;
+   font-style: italic;
+   padding-left:4px;
+   color: white;
+   height: 40px;
+   font-size: 1.3em;
+}
+
+/* Home view */
+.contentHome{
+   background-color: #e2e2e2;
+   width: 100%;
+   height: 100%;
+   min-width: 100%;
+   background: url('../res/home.png') center center no-repeat fixed;
+}
+.contentHome #initLogo
+{
+   height: 100%;
+   width: 100%;
+}
+
+/* list senatore*/
+.content
+{
+   font-family: bot-bar;   
+}
+.content .wall_sen img
+{
+   max-height: 100%;
+   max-width: 100%;
+   border: 2px solid #9b1818;
+}
+.wall_sen li>*
+{
+   float: left;
+}
+.wall_sen li
+{
+   height: 90px;
+   margin: 5px;
+   margin-bottom: 10px;
+   padding-bottom: 10px;
+   border-bottom:1px solid #606060;
+}
+.wall_sen li div
+{
+   height: 100%;
+   width: 73%;
+   position: relative;
+   left:6px;
+}
+.wall_sen li div div
+{
+   height: 50%;
+   width: 100%;
+   border-bottom: 1px solid #9b1818;
+
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
+.wall_sen li div div span, div span
+{
+   font-size: 16px;
+   position: relative;
+   top: 20px;
+   font-size: 18px;
+   float:left;   
+   text-transform: capitalize;
+
+}
+.wall_sen li div div span:first-child
+{
+   color: #9b1818;
+}
+.wall_sen li div div span:last-child, div span:last-child
+{
+   margin-left: 3px;
+   width: 60%;
+
+}
+.photo_info div span:first-child
+{
+   line-height: 2em;
+}
+.photo_info div span:last-child
+{
+   line-height: 2em;
+   font-size: 1.5em;
+}
+
+/*_____________________________*/
+/*_____________________________*/
+/* 
+    Document   : style3
+    Created on : 24-mag-2013, 1.37.24
+    Author     : nico
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* generali */
+/*
+header, footer, section
+{
+    width: 100%; 
+    display: block;
+}
+header
+{
+    text-align: center;
+    padding:3px;
+}
+footer
+{
+    position:fixed;
+    bottom:0px;
+}
+
+header h1
+{
+    color:white;
+}
+header, .bottom_butt
+{
+    background-color: #9b1818;
+}
+.bottom_butt
+{
+    display: block;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.searchBar
+{
+    background-color: #ab3b3a;
+
+    position: relative;
+    top: 4px;
+    z-index: -99;
+}
+footer form>*:not(:last-child)
+{
+    float:left;
+}
+footer form>*:last-child
+{
+    float:none;
+}
+.bottom_butt>*
+{
+    float: left;
+    color: white;
+    font-family: bot-bar;
+}
+.bottom_butt img
+{
+    padding: 3px;
+    padding-left:8px;   
+    margin-top:3px;
+    margin-bottom: 3px;
+}
+.bottom_butt span
+{
+    line-height:38px;
+    padding-left:0.8em;
+    text-transform: capitalize;
+    position: relative;
+    top: 2px;
+}
+
+footer a:last-child img
+{
+    border-left:solid 1px #b88d8d;
+}
+div.searchBar form
+{
+    margin-left: 4%;
+    margin-right: 6%;
+    padding-top: 5px;
+}
+div.searchBar input[type="image"]
+{
+    display: inline;
+    position: relative;
+    right: -5px;
+}
+div.searchBar input[type="text"]
+{
+    display: inline;
+    width: 93%;
+    border: none;
+    border-bottom: 1px solid #eed9d8;
+    background-color: transparent;
+    font-style: italic;
+    padding-left:4px;
+}
+*/
+
+/*nico*/
+
+.photo_info
+{
+   margin-bottom: 10px;
+   padding:0.3em;
+   height: 35%;
+}
+
+#photo 
+{
    display: block;
-   margin-left: auto;
-   margin-right: auto;
+   max-width: 45%;
+   border: 3px #9b1818 solid;
+   width: 45%;
+   float: left;
+
+}
+.photo_info div>span
+{
+   display: block;
+   top: initial;
+   position: initial;
+   float: none;
+   line-height: initial;
+   font-size: initial;
+}
+.photo_info>div
+{
+   width: 50%;
+   float: left;
+   margin-top: 3%;
+}
+.photo_info div span.fieldType
+{
+   font-size: 1em;
+   line-height: 2em;
+}
+.photo_info div span.fieldType+*
+{
+   font-size: 1.5em;
+   line-height: 2em;
    margin-bottom: 10px;
 }
-.mybutton>p
+
+
+/*
+.info
 {
-   width: 100%;
-   text-align: center;
-   height: 50px;
-   line-height: 50px;
+   float: left;
+   max-width: 50%;
+   display: block;
+   margin-top: 5%;
+
+   color: #9b1818;
+   border-bottom: 2px #9b1818;
+
+}
+
+span
+{
+   display: block;
+}*/
+#testo 
+{
+   color: #9b1818;
 }
 
 
-
-/* TEMPORARY */
-.tmp_contaier
+ul.lista_leggi_wrap li 
 {
-   text-align:center;
-   color:green;
+   font-family: Helvetica;
+   height: 10%;
+   width: 95%;
+   background-color: #9b1818; 
+   margin-left: 3%;
+   margin-right: auto;
+   text-align: center;
+   color: white;
+   margin-top: 2%;
+}
+
+#freccia
+{
+   float: right;
+   max-width: 20px;
+   margin-top: 2.8%;
+   margin-right: 2%;
+}
+
+.votazioni
+{
+   color: #9b1818;
+}
+
+
+/*   lista votazioni */
+
+
+.container { 
+   border-style:solid ;
+   width:95%; 
+   height:30%; 
+   background-color:#9b3e3e;
+   margin:2% auto;
+   margin-left: 2%;
+}
+
+.wall-vot {
+   margin-left: 1%;
+   margin-top: 3px;
+   font-family: Helvetica;
+   color: white;
+   font-size: 14px;
+}
+
+.legge{
+   border-style:solid ;
+   width:95%; 
+   height:45%;
+   background-color:#ffffff;
+   margin:2% auto;
+   margin-left: 2%;
+}
+
+.dett-legge{
+   margin-left: 1%;
+   margin-top: 1%;
+   font-family: Helvetica;
+   color: black;
+   font-size: 20px;
+   text-align: center;
 }
