@@ -1,10 +1,10 @@
-define(["zepto", "underscore", "backbone", "handlebars","text!tpl/top_bar_tpl.html"],
+define(["zepto", "underscore", "backbone", "handlebars","text!tpl/topbar_tpl.html"],
         function($, _, Backbone, Handlebars, template) {
 
            var TopBar = Backbone.View.extend({
               
               className: "top_bar",
-              tagName: "section",
+              tagName: "header",
               id:"top_bar",
               
               template: Handlebars.compile(template),
